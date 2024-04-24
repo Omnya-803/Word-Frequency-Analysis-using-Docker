@@ -1,5 +1,3 @@
-# This code checks if a file exists, tokenizes the text, removes stopwords, counts word frequencies, and displays the word frequency count.
-# Import necessary libraries
 import os
 import nltk
 from nltk.corpus import stopwords
