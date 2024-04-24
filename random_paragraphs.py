@@ -7,7 +7,7 @@ nltk.download('stopwords')
 nltk.download('punkt')
 
 # Define file name and path
-file_name=r"G:/cloud/random_paragraphs.txt" 
+file_name="random_paragraphs.txt" 
 file_path =os.path.join(os.getcwd(),file_name)
 
 # Check if the file exists
